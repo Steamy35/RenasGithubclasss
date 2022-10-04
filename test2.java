@@ -3,5 +3,6 @@ public class test2 {
         System.out.println("gebes kamlumbaga");
         System.out.println("gebes");
         System.out.println("kaplumbaga");
+        ege
     }
 }
